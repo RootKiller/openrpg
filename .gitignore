@@ -1,0 +1,16 @@
+# MTA Server executables (windows)
+*.exe
+*.dll
+
+# Directories
+dumps
+mods/deathmatch/logs
+mods/deathmatch/resource-cache
+
+# Files to ignore
+server-id.keys
+banlist.xml
+editor.conf
+editor_acl.xml
+local.conf
+vehiclecolors.conf
