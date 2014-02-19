@@ -1,0 +1,8 @@
+<meta>
+	<info name="Open RPG - Database manager - resource" author="Open RPG Team" version="1.0" type="script" />
+
+	<script src="scripts/server/database.lua" type="server" />
+
+	<export function="query" type="server" />
+	<export function="execute" type="server" />
+</meta>

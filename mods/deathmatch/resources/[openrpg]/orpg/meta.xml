@@ -1,5 +1,6 @@
 <meta>
 	<info name="Open RPG - Resource" author="Open RPG Team" version="1.0" type="gamemode" />
 
+	<include resource="db" />
 	<include resource="orpg-core" />
 </meta>
